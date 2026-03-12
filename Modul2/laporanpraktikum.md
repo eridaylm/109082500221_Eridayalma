@@ -1,9 +1,9 @@
 # <h1 align="center">Laporan Praktikum Modul 2 - Algoritma Pemrograman 2 </h1>
-<p align="center">[Eridayalma Zahra Yohar] - [109082500221]</p>
+<p align="center">Eridayalma Zahra Yohar - 109082500221</p>
 
 ## Modul 2 
 
-### 1. [Soal 1]
+### 1. Soal 1
 #### 2a.go
 
 ```go
@@ -37,7 +37,7 @@ func main() {
 Penjelasan : 
 Program ini buat baca tiga input string dari user lalu disimpan di variabel satu, dua, dan tiga. Setelah itu program nampilin dulu urutan awalnya. Selanjutnya program nuker posisi datanya pakai variabel temp sebagai penyimpanan sementara. Nilai pertama dipindah ke belakang, nilai kedua jadi pertama, dan nilai ketiga jadi kedua. Terus di akhir, program nampilin urutan baru yang udah berubah. Jadi intinya program ini cuma buat geser urutan tiga data string.
 
-### 2. [Soal 2]
+### 2. Soal 2
 #### 2b.go
 
 ```go
@@ -77,7 +77,7 @@ func main() {
 Penjelasan : 
 Program ini membaca 4 input warna dari user sebanyak 5 kali percobaan. Setiap input dicek apakah urutannya merah, kuning, hijau, ungu. Kalau ada yang ngga sesuai, maka berhasil menjadi false. Di akhir program nanti ditampilkan apakah input warna tersebut sesuai atau ngga.
 
-### 3. [Soal 3]
+### 3. Soal 3
 #### 2c.go
 
 ```go
