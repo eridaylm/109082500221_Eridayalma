@@ -3,7 +3,7 @@
 
 ## Modul 2 
 
-### 1. Soal 1
+### 1. Telusuri program berikut dengan cara mengkompilasi dan mengeksekusi program. Silakan masukan data yang sesuai sebanyak yang diminta program. Perhatikan keluaran yang diperoleh. Coba terangkan apa sebenarnya yang dilakukan program tersebut?
 #### 2a.go
 
 ```go
@@ -37,7 +37,7 @@ func main() {
 Penjelasan : 
 Program ini buat baca tiga input string dari user lalu disimpan di variabel satu, dua, dan tiga. Setelah itu program nampilin dulu urutan awalnya. Selanjutnya program nuker posisi datanya pakai variabel temp sebagai penyimpanan sementara. Nilai pertama dipindah ke belakang, nilai kedua jadi pertama, dan nilai ketiga jadi kedua. Terus di akhir, program nampilin urutan baru yang udah berubah. Jadi intinya program ini cuma buat geser urutan tiga data string.
 
-### 2. Soal 2
+### 2. Siswa kelas IPA di salah satu sekolah menengah atas di Indonesia sedang mengadakan praktikum kimia. Di setiap percobaan akan menggunakan 4 tabung reaksi, yang mana susunan warna cairan di setiap tabung akan menentukan hasil percobaan. Siswa diminta untuk mencatat hasil percobaan tersebut. Percobaan dikatakan berhasil apabila susunanwarna zat cair pada gelas 1 hingga gelas 4 secara berturutan adalah ‘merah’, ‘kuning’, ‘hijau’, dan ‘ungu’ selama 5 kali percobaan berulang. Buatlah sebuah program yang menerima input berupa warna dari ke 4 gelas reaksi sebanyak 5 kali percobaan. Kemudian program akan menampilkan true apabila urutan warna sesuai dengan informasi yang diberikan pada paragraf sebelumnya, dan false untuk urutan warna lainnya.
 #### 2b.go
 
 ```go
@@ -77,7 +77,7 @@ func main() {
 Penjelasan : 
 Program ini membaca 4 input warna dari user sebanyak 5 kali percobaan. Setiap input dicek apakah urutannya merah, kuning, hijau, ungu. Kalau ada yang ngga sesuai, maka berhasil menjadi false. Di akhir program nanti ditampilkan apakah input warna tersebut sesuai atau ngga.
 
-### 3. Soal 3
+### 3. PT POS membutuhkan aplikasi perhitungan biaya kirim berdasarkan berat parsel. Maka, buatlah program BiayaPos untuk menghitung biaya pengiriman tersebut dengan ketentuan sebagai berikut! Dari berat parsel (dalam gram), harus dihitung total berat dalam kg dan sisanya (dalam gram). Biaya jasa pengiriman adalah Rp. 10.000,- per kg. Jika sisa berat tidak kurang dari 500 gram, maka tambahan biaya kirim hanya Rp. 5,- per gram saja. Tetapi jika kurang dari 500 gram, maka tambahan biaya akan dibebankan sebesar Rp. 15,- per gram. Sisa berat (yang kurang dari 1kg) digratiskan biayanya apabila total berat ternyata lebih dari 10kg.
 #### 2c.go
 
 ```go
