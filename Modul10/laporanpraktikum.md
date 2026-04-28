@@ -1,7 +1,7 @@
 # <h1 align="center">Laporan Praktikum Modul 10 - Algoritma Pemrograman 2 </h1>
 <p align="center">Eridayalma Zahra Yohar - 109082500221</p>
 
-## Modul 9 
+## Modul 10 
 
 ### 1.Sebuah program digunakan untuk mendata berat anak kelinci yang akan dijual ke pasar. Program ini menggunakan array dengan kapasitas 1000 untuk menampung data berat anak kelinci yang akan dijual. Masukan terdiri dari sekumpulan bilangan, yang mana bilangan pertama adalah bilangan bulat N yang menyatakan banyaknya anak kelinci yang akan ditimbang beratnya. Selanjutnya N bilangan riil berikutnya adalah berat dari anak kelinci yang akan dijual. Keluaran terdiri dari dua buah bilangan riil yang menyatakan berat kelinci terkecil dan terbesar.
 
